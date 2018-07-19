@@ -21,10 +21,6 @@ mybatis:
    check-config-location: true   #检查mybatis的配置信息
    #configuration:
    #log-impl: org.apache.ibatis.logging.stdout.StdOutImpl 
-pagehelper:
-   helperDialect: mysql
-   reasonable: true
-   supportMethodsArguments: true
-   params: count=countSql 
+
 
  
